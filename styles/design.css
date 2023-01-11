@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.div-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner1-image {
+    width: 1200px;
+    height: 550px;
+    background: whitesmoke;
+    overflow: auto;
+}
+
+.header-title {
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 76px;
+    text-align: right;
+    margin-top: 216px;
+    margin-right: 88px;
+}
+
+.header-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+    margin-right: 88px;
+}
